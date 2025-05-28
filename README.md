@@ -255,7 +255,7 @@ python task_manager.py
 
 ### Структура проекта
 
-
+number.txt             # Версия
 
 task_manager.py        # Основной файл программы
 
