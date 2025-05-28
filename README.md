@@ -70,21 +70,17 @@ Python 3.6 или новее
 
 Клонируйте репозиторий:
 
-bash
 git clone https://github.com/Grensotius/Sandbox_for_brainstorm
+
 Установите необходимые зависимости:
 
-bash
 pip install matplotlib
-Для системных уведомлений на Windows (опционально):
 
-bash
+Для системных уведомлений на Windows (опционально):
 
 pip install win10toast
 
 Запуск
-
-bash
 
 python task_manager.py
 
